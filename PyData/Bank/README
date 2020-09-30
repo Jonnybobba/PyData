@@ -4,3 +4,4 @@ The program PyBank.py is designed to read the record profit and losses presented
   > Average change
   > Greatest profit
   > Greatest loss
+ After all these values have been calculated, the program will export the results to the output folder under the title pybank_results.txt
