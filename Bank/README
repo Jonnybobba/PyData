@@ -1,0 +1,9 @@
+The program PyBank.py is designed to read the record profit and losses presented in Py_Bank_Data.csv and give the following results
+
+  > Total months recorded
+  > Total change
+  > Average change
+  > Greatest profit
+  > Greatest loss
+
+After all these values have been calculated, the program will export the results to the output folder under the title pybank_results.txt
