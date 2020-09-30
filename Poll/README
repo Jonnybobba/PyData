@@ -1,0 +1,8 @@
+After the Py_Poll_Data.zip has been unzipped, the PyPoll.py program is designed to read the votes found in the csv file Py_Poll_Data.csv and find the following results
+
+  > The total vote count for the entire election
+  > The overall vote count for each candidate
+  > The perecent of total vote count for each candidate
+  > The winner of the election
+  
+After all these results have been found, the program will export the results to the output folder in the file pypoll_results.txt
